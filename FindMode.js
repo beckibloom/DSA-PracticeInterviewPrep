@@ -2,3 +2,15 @@
 
 // - Input: `1, 2, 3, 6, 10, 3, 5, 6, 3, 3`
 // - Output: `Mode = 3, Frequency of mode = 4`
+
+// create obj variable
+// create mode variable
+// create frequency variable
+// .split(' ') the array 
+// parseInt() to remove commas?
+// loop through array 
+// if (!obj[i]) { obj[i] = 1 }
+// else obj[i]++
+// keys = Object.keys(obj)
+// if keys[i] > keys [i+1], mode = key, frequency = keys[i]
+// return string
